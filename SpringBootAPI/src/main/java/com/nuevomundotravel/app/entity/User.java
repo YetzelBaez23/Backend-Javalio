@@ -4,7 +4,6 @@ import jakarta.persistence.*;
 
 @Entity
 @Table (name= "users")
-
 public class User {
 	
 	public User() {}  // TODO Auto-generated constructor stub
@@ -19,6 +18,15 @@ public class User {
 	@Column(name = "email", length = 100, nullable = false, unique = true)
 	 private String email;
 	 
+	public String getEmail() {
+		return email;
+	}
+
+
+	public void setEmail(String email) {
+		this.email = email;
+	}
+
 	@Column(name = "telephone", length = 20, nullable = false)
 	 private String telephone; 
 	
@@ -29,6 +37,8 @@ public class User {
 	// @JoinColumn(name = "role_id")
 	private Role role;
 	
+	private Boolean active;
+
 	
 	// PURCHASES HAS POSTS 
 	
@@ -93,6 +103,22 @@ public class User {
 		builder.append(role);
 		builder.append("]");
 		return builder.toString();
+	}
+
+
+	public void setActive(boolean b) {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+	public Boolean getActive() {
+		return active;
+	}
+
+
+	public void setActive(Boolean active) {
+		this.active = active;
 	}
 	
 }
