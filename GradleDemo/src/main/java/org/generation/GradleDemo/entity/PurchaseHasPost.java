@@ -1,11 +1,17 @@
 package org.generation.GradleDemo.entity;
 
+import org.generation.GradleDemo.entity.compositekey.PurchasePostKey;
+
+
+
 import jakarta.persistence.*;
 
 
-
+@Entity
 @Table(name = "purchases_has_products")
 public class PurchaseHasPost  {
+	@EmbeddedId
+	private PurchasePostKey id;
 	
 	@ManyToOne
 	@MapsId("orderId")
@@ -20,18 +26,16 @@ public class PurchaseHasPost  {
 	@Column(name = "quantity")
 	private Long quantity;
 	
-	@Column(name = "price")
-	private Double price;
+	
 
 	public PurchaseHasPost() {
 		
 	}
 
-	public PurchaseHasPost(Purchase purchase, Post post, Long quantity, Double price) {
+	public PurchaseHasPost(Purchase purchase, Post post, Long quantity) {
 		this.purchase = purchase;
 		this.post = post;
 		this.quantity = quantity;
-		this.price = price;
 	}
 
 	public Purchase getPurchase() {
@@ -58,13 +62,7 @@ public class PurchaseHasPost  {
 		this.quantity = quantity;
 	}
 
-	public Double getPrice() {
-		return price;
-	}
 
-	public void setPrice(Double price) {
-		this.price = price;
-	}
 
 	@Override
 	public String toString() {
@@ -76,7 +74,6 @@ public class PurchaseHasPost  {
 		builder.append(", quantity=");
 		builder.append(quantity);
 		builder.append(", price=");
-		builder.append(price);
 		builder.append("]");
 		return builder.toString();
 	}

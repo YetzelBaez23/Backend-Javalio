@@ -37,8 +37,9 @@ INSERT INTO posts(departure_date, return_date, price, departure_site, spots, des
 INSERT INTO posts(departure_date, return_date, price, departure_site, spots, description, image_id, destination_id) VALUES ("2024-06-08", "2024-06-09",150, "1ra Vips Revolución, 2da Parque Rojo, 3ra Hotel Fiesta Americana, Guadalajara", 30, "Descubre la majestuosidad del Nevado de Colima con una altitud de aproximadamente 4,330 metros sobre el nivel del mar. Acamparemos una noche el sábado 2 y domingo 3 de marzo, saliendo a la 1 pm desde tres puntos de salida. Incluye transporte redondo, Box Lunch, guías, snack, fogata, fotografías y seguridad. Precio regular $1500 por persona, especial de $1400 para grupos de +4. El ascenso es un desafío físico, hazlo bajo tu propio riesgo.", 4, 2);
 INSERT INTO posts(departure_date, return_date, price, departure_site, spots, description, image_id, destination_id) VALUES ("2024-06-15", "2024-06-16",160, " Parque Rojo, Burger King Central Nueva, Guadalajara", 30, "¡Acompáñanos a las costas de Michoacán del 16 al 18 de marzo! Acamparemos dos noches y visitaremos varios lugares como playa Colola, el faro Bulerías, playa Palma Sola y Maruata. Salida el viernes 15 de marzo desde tres puntos. Incluye transporte en autobús de lujo, Box Lunch, barra libre, transporte a las playas, liberación de tortugas, fotografías y seguro de viajero. Precio regular $1600 por persona, pero hay un precio especial de $1500 para grupos de +5 personas. ¡No te lo pierdas!", 2, 1);
 
-INSERT INTO purchases ( "date", "total", "user_id") VALUES (1, '2024-04-22 18:30:56', 2600, 8);
-INSERT INTO purchases ( "date", "total", "user_id") VALUES (2, '2024-04-22 20:30:43', 1500, 8);
-INSERT INTO purchases ( "date", "total", "user_id") VALUES (3, '2024-04-22 20:40:11', 5200, 8);
-INSERT INTO purchases ( "date", "total", "user_id") VALUES (4, '2024-04-23 10:34:54', 3000, 8);
-INSERT INTO purchases ( "date", "total", "user_id") VALUES (5, '2024-04-23 12:01:23', 1600, 8);
+INSERT INTO purchases ( "date", "total", "user_id") VALUES ('2024-04-22 18:30:56', 2600, 8);
+INSERT INTO purchases ( "date", "total", "user_id") VALUES ('2024-04-22 20:30:43', 1500, 8);
+INSERT INTO purchases ( "date", "total", "user_id") VALUES ('2024-04-22 20:40:11', 5200, 8);
+INSERT INTO purchases ( "date", "total", "user_id") VALUES ('2024-04-23 10:34:54', 3000, 8);
+INSERT INTO purchases ( "date", "total", "user_id") VALUES ('2024-04-23 12:01:23', 1600, 8);
+

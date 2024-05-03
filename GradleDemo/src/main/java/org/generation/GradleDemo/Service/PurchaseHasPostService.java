@@ -1,9 +1,20 @@
 package org.generation.GradleDemo.Service;
 
-import java.util.List;
 
-import org.generation.GradleDemo.entity.Purchase;
+import org.generation.GradleDemo.entity.PurchaseHasPost;
+
 
 public interface PurchaseHasPostService {
-	List<Purchase> getAllPurchaseHasPost();
+
+	
+	PurchaseHasPost getPurchaseHasPostById(long orderId, long productId);	
+	
+	PurchaseHasPost updatePurchaseHasPost(PurchaseHasPost purchaseHasPost, long orderId, long productId);
+	
+	void deleteOrderHasProduct(long orderId, long productId);
+
+	PurchaseHasPost createPurchaseHasPost(PurchaseHasPost purchaseHasPost);
+
+	
+	
 }
