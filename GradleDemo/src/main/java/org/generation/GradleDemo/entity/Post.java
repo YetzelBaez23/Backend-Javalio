@@ -35,7 +35,7 @@ public class Post {
 	@JoinColumn(name = "destination_id", nullable = false)
 	private Destination destination;
 
-	private Boolean active; 
+	
 
 	public Post() {
 		
@@ -178,15 +178,7 @@ public class Post {
 
 
 
-	public Boolean getActive() {
-		return active;
-	}
-
-
-
-	public void setActive(Boolean active) {
-		this.active = active;
-	}
+	
 
 	
 	
