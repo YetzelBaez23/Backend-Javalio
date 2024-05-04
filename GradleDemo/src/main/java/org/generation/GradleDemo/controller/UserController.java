@@ -36,6 +36,11 @@ public class UserController {
     ResponseEntity<User> getUserById(@PathVariable("id") Long id) {
         return new ResponseEntity<>(userService.getUserById(id), HttpStatus.OK);
     }
+    
+    @GetMapping("/email/{email}")
+    ResponseEntity<User> getUserByEmail(@PathVariable("email") String email) {
+        return new ResponseEntity<>(userService.getUserByEmail(email), HttpStatus.OK);
+    }
 
     @PostMapping
     ResponseEntity<User> createVisitor(@RequestBody User user) {

@@ -37,8 +37,15 @@ public class UserServiceImpl implements UserService {
 
 	@Override
 	public User getUserByEmail(String email) {
-		// TODO Auto-generated method stub
-		return null;
+		Optional<User> userOptional = userRepository.findByEmail(email);
+		User existingUser;
+		
+		if( userOptional.isPresent() ) {
+			existingUser = userOptional.get();
+			return existingUser;
+		} else {
+			throw new IllegalStateException("User does not exist with email " + email);
+		}	
 	}
 
 	@Override
@@ -60,7 +67,7 @@ public class UserServiceImpl implements UserService {
 		user.setActive(true);
 		user.setId(null);
 		user.setRole( new Role(1) );
-		user.setPassword(user.getPassword() );
+		//user.setPassword(user.getPassword() );
 		
 		if( userRepository.existsByEmail(user.getEmail()) ) {
 			throw new IllegalStateException("User exist with email " + user.getEmail());
