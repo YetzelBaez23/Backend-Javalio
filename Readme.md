@@ -37,8 +37,10 @@
 
 ![WhatsApp Image 2024-05-07 at 5 28 54 PM](https://github.com/YetzelBaez23/Backend-Javalio/assets/111305296/77f42b2e-0ad2-430f-af4b-2d0c76a526ae)
 
+
+## Este Gran Proyecto que no se habría logrado culminar sin la partipación de nuestro **Dream Team:**
 <section>
-## Este Gran Proyecto que no se habría logrado culminar sin la partipación de nuestro **Dream Team:** 
+ 
 
 
 
