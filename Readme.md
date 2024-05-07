@@ -14,6 +14,12 @@
 1.1- Database ERD
 ![WhatsApp Image 2024-05-07 at 4 39 51 PM](https://github.com/YetzelBaez23/Backend-Javalio/assets/111305296/0c84da89-8abb-41ce-96a3-e81be1c19168)
 
+![WhatsApp Image 2024-05-07 at 5 03 17 PM](https://github.com/YetzelBaez23/Backend-Javalio/assets/111305296/422fe0a6-1cd4-4597-a6b6-3f5fda8c90b3)
+
+![WhatsApp Image 2024-05-07 at 5 03 47 PM](https://github.com/YetzelBaez23/Backend-Javalio/assets/111305296/50e48dff-f3d4-469d-8e89-cb4199f19386)
+
+![WhatsApp Image 2024-05-07 at 5 04 46 PM](https://github.com/YetzelBaez23/Backend-Javalio/assets/111305296/cfff8a95-ae07-451f-bb2d-94cc759bfc00)
+
 ## Postman
   1.2.-Obtener publicaciones
 ![WhatsApp Image 2024-05-07 at 4 42 36 PM](https://github.com/YetzelBaez23/Backend-Javalio/assets/111305296/af0d94a6-381d-4538-ab15-cd0227a2477a)
