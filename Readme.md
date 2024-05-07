@@ -20,7 +20,7 @@
 
 ![WhatsApp Image 2024-05-07 at 5 04 46 PM](https://github.com/YetzelBaez23/Backend-Javalio/assets/111305296/cfff8a95-ae07-451f-bb2d-94cc759bfc00)
 
-## Postman
+## Postman (Pruebas de peticiones HTTP)
   1.2.-Obtener publicaciones
 ![WhatsApp Image 2024-05-07 at 4 42 36 PM](https://github.com/YetzelBaez23/Backend-Javalio/assets/111305296/af0d94a6-381d-4538-ab15-cd0227a2477a)
 
