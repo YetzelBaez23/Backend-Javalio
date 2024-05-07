@@ -14,11 +14,18 @@
 1.1- Database ERD
 ![WhatsApp Image 2024-05-07 at 4 39 51 PM](https://github.com/YetzelBaez23/Backend-Javalio/assets/111305296/0c84da89-8abb-41ce-96a3-e81be1c19168)
 
+
+1.1.1- Información dentro de la base de datos
 ![WhatsApp Image 2024-05-07 at 5 03 17 PM](https://github.com/YetzelBaez23/Backend-Javalio/assets/111305296/422fe0a6-1cd4-4597-a6b6-3f5fda8c90b3)
 
 ![WhatsApp Image 2024-05-07 at 5 03 47 PM](https://github.com/YetzelBaez23/Backend-Javalio/assets/111305296/50e48dff-f3d4-469d-8e89-cb4199f19386)
 
 ![WhatsApp Image 2024-05-07 at 5 04 46 PM](https://github.com/YetzelBaez23/Backend-Javalio/assets/111305296/cfff8a95-ae07-451f-bb2d-94cc759bfc00)
+
+![WhatsApp Image 2024-05-07 at 5 05 12 PM](https://github.com/YetzelBaez23/Backend-Javalio/assets/111305296/ac9d4da4-0ffc-4d7d-ad2f-323456b11679)
+
+![WhatsApp Image 2024-05-07 at 5 05 40 PM](https://github.com/YetzelBaez23/Backend-Javalio/assets/111305296/6ea43b32-20a3-46a6-845d-09d28eeb7436)
+
 
 ## Postman (Pruebas de peticiones HTTP)
   1.2.-Obtener publicaciones
