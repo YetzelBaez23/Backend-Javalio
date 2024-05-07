@@ -9,50 +9,36 @@
 <a href="https://nuevomundotravel.netlify.app/" target="_blank"> Nuevo Mundo Travel</a>
 </section>
 
-## Indice: 
+## BackEnd: 
 
-![Screenshot 2024-05-06 201724](https://github.com/Ulimax/E-commerce-Java.lio/assets/160265351/fd309fac-bce8-4306-8eac-91ad6e50842f)
+1.1- Database ERD
+![WhatsApp Image 2024-05-07 at 4 39 51 PM](https://github.com/YetzelBaez23/Backend-Javalio/assets/111305296/0c84da89-8abb-41ce-96a3-e81be1c19168)
 
+## Postman
+  1.2.-Obtener publicaciones
+![WhatsApp Image 2024-05-07 at 4 42 36 PM](https://github.com/YetzelBaez23/Backend-Javalio/assets/111305296/af0d94a6-381d-4538-ab15-cd0227a2477a)
 
-1.1- Inicio
-![trips](https://github.com/Ulimax/E-commerce-Java.lio/assets/160265351/f9ef60cc-f88b-420b-9ba4-def3ad518aed)
-
-  1.2.-Modals
-![modalsss](https://github.com/Ulimax/E-commerce-Java.lio/assets/160265351/8d17896f-d569-4fa9-b9f1-ced3cc05162a)
-
-
-2.- Contactanos
-![Screenshot 2024-05-06 201802](https://github.com/Ulimax/E-commerce-Java.lio/assets/160265351/f93d3af2-1a44-47ee-93d7-bb08e806df7d)
-
-3.- Acerca de nosotros 
-![acerca de nosotroos](https://github.com/Ulimax/E-commerce-Java.lio/assets/160265351/25922e08-e54f-45db-91e6-2992114b2839)
-
-4.- Inicio de sesión
-![inicio de seion ](https://github.com/Ulimax/E-commerce-Java.lio/assets/160265351/d66204da-4631-4b7a-9caf-bfa0724f6d1b)
-
-5.- Registrarse
-![Screenshot 2024-05-06 201855](https://github.com/Ulimax/E-commerce-Java.lio/assets/160265351/3873cb9d-d759-40f9-8103-093b50b4a071)
-
-6.1.- Mochila
-![Screenshot 2024-05-06 201935](https://github.com/Ulimax/E-commerce-Java.lio/assets/160265351/5b793b54-ccef-4b2c-8d60-ea3ad96f948a)
-
- 
-6.2.-Recibo de compra 
-![receipt](https://github.com/Ulimax/E-commerce-Java.lio/assets/160265351/0f158249-ac9c-4ef0-8e67-83a975dc945f)
-
-## ¡Nuestra página es responsiva!
-<section> 
-<img src="https://github.com/Ulimax/E-commerce-Java.lio/assets/160265351/a995ef70-b21b-4e3e-a66b-f77ea3aa3692" width="160" height="auto">
- <img src="https://github.com/Ulimax/E-commerce-Java.lio/assets/160265351/951eae76-dcbd-4aac-94e6-599b8315479b" width="160" height="auto">
- <img src="https://github.com/Ulimax/E-commerce-Java.lio/assets/160265351/0dab9b0a-3d20-4657-9884-c51ff3a5eeba" width="160" height="auto">
- <img src="https://github.com/Ulimax/E-commerce-Java.lio/assets/160265351/d0a729c1-e2db-460d-9a54-7e8fbb9128b4" width="160" height="auto">
- <img src="https://github.com/Ulimax/E-commerce-Java.lio/assets/160265351/4eb6a2c5-09e0-4b3c-a6cf-6f48b23a79f3" width="160" height="auto">
+2.- Obtener usuarios 
+![WhatsApp Image 2024-05-07 at 5 06 52 PM](https://github.com/YetzelBaez23/Backend-Javalio/assets/111305296/9dfc6780-2da3-48b2-b840-564c503afc77)
 
 
-</section>
+3.- Inicio de sesión 
+![WhatsApp Image 2024-05-07 at 5 21 15 PM](https://github.com/YetzelBaez23/Backend-Javalio/assets/111305296/84c558de-0d2b-4396-ae38-24e21ecfa059)
+
+
+4.- Registro de clientes
+![WhatsApp Image 2024-05-07 at 5 25 36 PM](https://github.com/YetzelBaez23/Backend-Javalio/assets/111305296/2062615a-df8d-428f-8a26-42c6aa18feed)
+
+
+5.- Obtener publicaciones (viajes)
+![WhatsApp Image 2024-05-07 at 5 26 51 PM](https://github.com/YetzelBaez23/Backend-Javalio/assets/111305296/ea01a1da-3bf5-4863-8ad7-99b13225a16f)
+
+6.1.- Crear un nuevo viaje
+
+![WhatsApp Image 2024-05-07 at 5 28 54 PM](https://github.com/YetzelBaez23/Backend-Javalio/assets/111305296/77f42b2e-0ad2-430f-af4b-2d0c76a526ae)
 
 <section>
-## Este Gran Proyecto No se habría logrado culminar sin la partipación de nuestro **Dream Team:** 
+## Este Gran Proyecto que no se habría logrado culminar sin la partipación de nuestro **Dream Team:** 
 
 
 
